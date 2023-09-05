@@ -1,3 +1,3 @@
-Materi Pemrograman C#
+# Materi Pemrograman C#
 
-Jarang work
+Kadang work kadang digidaw
