@@ -1,1 +1,3 @@
-# Repository untuk materi pemrograman C#
+Materi Pemrograman C#
+
+Jarang work
