@@ -1,3 +1,2 @@
-# Materi Pemrograman C#
-
-Kadang work kadang digidaw
+Calculator Windows Form App
+- Menambahkan reference class library
